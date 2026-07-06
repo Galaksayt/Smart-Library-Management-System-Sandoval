@@ -5,6 +5,5 @@ Project Modules
 - Reports
 - User Accounts
 - Member Management
-- Book Catalog
 - Borrowing
 - Returning
