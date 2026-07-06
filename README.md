@@ -1,6 +1,8 @@
 # Smart-Library-Management-System-Sandoval
 IT3012 Finals Activity 1
 
+Smart Library Management System (SLMS)
+
 Project Description:
 The Smart Library Management System (SLMS) is a web-based application designed to automate library operations at ABC State University.
 
@@ -13,14 +15,14 @@ Project Modules
 - Reports
 
 
->>> Member Management <<<
+Member Management
 Features
 - Register New Member
 - Update Member Information
 - Delete Member Record
 - Search Member
 
-Smart Library Management System (SLMS)
+
 Development Team
 Student Name: Sandoval, Richnel F.
 Course: BSIT - SD
