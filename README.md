@@ -9,3 +9,11 @@ Project Modules
 - Returning
 
 _Last updated during GitHub Actions laboratory._
+
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
+
